@@ -114,6 +114,7 @@ html[lang="zh-Hans"] .art-tag, html[lang="zh-Hans"] .section-label { letter-spac
   .wrap { width: calc(100% - 32px); }
   .header { gap: 10px; }
   .brand { font-size: 17px; gap: 7px; }
+  html[lang="zh-Hans"] h1 { font-size: clamp(38px, 12.6vw, 46px); }
   .button { font-size: 14px; padding: 15px 17px; gap: 14px; }
   h1 { font-size: 51px; }
   .eyebrow { font-size: 9px; letter-spacing: 1px; }
